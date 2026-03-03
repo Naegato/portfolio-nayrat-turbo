@@ -1,0 +1,10 @@
+{
+  "name": "@repo/docker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "up": "docker compose up -d --wait",
+    "dev": "docker compose logs -f",
+    "down": "docker compose down"
+  }
+}
