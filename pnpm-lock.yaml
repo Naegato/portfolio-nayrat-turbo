@@ -12,8 +12,8 @@ importers:
         specifier: ^3.7.4
         version: 3.7.4
       turbo:
-        specifier: ^2.8.6
-        version: 2.8.6
+        specifier: ^2.8.12
+        version: 2.8.12
       typescript:
         specifier: 5.9.2
         version: 5.9.2
@@ -6251,38 +6251,38 @@ packages:
   tunnel-agent@0.6.0:
     resolution: {integrity: sha512-McnNiV1l8RYeY8tBgEpuodCC1mLUdbSN+CYBL7kJsJNInOP8UjDDEwdk6Mw60vdLLrr5NHKZhMAOSrR2NZuQ+w==}
 
-  turbo-darwin-64@2.8.6:
-    resolution: {integrity: sha512-6QeZ/aLZizekiI6tKZN0IGP1a1WYZ9c/qDKPa0rSmj2X0O0Iw/ES4rKZV40S5n8SUJdiU01EFLygHJ2oWaYKXg==}
+  turbo-darwin-64@2.8.12:
+    resolution: {integrity: sha512-EiHJmW2MeQQx+21x8hjMHw/uPhXt9PIxvDrxzOtyVwrXzL0tQmsxtO4qHf2l7uA+K6PUJ4+TjY1MHZDuCvWXrw==}
     cpu: [x64]
     os: [darwin]
 
-  turbo-darwin-arm64@2.8.6:
-    resolution: {integrity: sha512-RS4Z902vB93cQD3PJS/1IMmS0HefrB5ZXuw4ECOrxhOGz5jJVmYFJ6weDzedjoTDeYHHXGo1NoiCSHg69ngWKA==}
+  turbo-darwin-arm64@2.8.12:
+    resolution: {integrity: sha512-cbqqGN0vd7ly2TeuaM8k9AK9u1CABO4kBA5KPSqovTiLL3sORccn/mZzJSbvQf0EsYRfU34MgW5FotfwW3kx8Q==}
     cpu: [arm64]
     os: [darwin]
 
-  turbo-linux-64@2.8.6:
-    resolution: {integrity: sha512-hCWDnDepYbrSJdByuryKFoHAGFkvgBYXr6qdaGsYhX1Wgq8isqXCQBKOo99Y/9tXDwKGEeQ7xnkdFvSL7AQ4iQ==}
+  turbo-linux-64@2.8.12:
+    resolution: {integrity: sha512-jXKw9j4r4q6s0goSXuKI3aKbQK2qiNeP25lGGEnq018TM6SWRW1CCpPMxyG91aCKrub7wDm/K45sGNT4ZFBcFQ==}
     cpu: [x64]
     os: [linux]
 
-  turbo-linux-arm64@2.8.6:
-    resolution: {integrity: sha512-oS15aCYEpynG/l69xs/ZnQ0dnz0pHhfHg70Zf5J+j5Cam0/RA0MpcryjneN/9G0PmP8a/6ZxnL5nZahX+wOBPA==}
+  turbo-linux-arm64@2.8.12:
+    resolution: {integrity: sha512-BRJCMdyXjyBoL0GYpvj9d2WNfMHwc3tKmJG5ATn2Efvil9LsiOsd/93/NxDqW0jACtHFNVOPnd/CBwXRPiRbwA==}
     cpu: [arm64]
     os: [linux]
 
-  turbo-windows-64@2.8.6:
-    resolution: {integrity: sha512-eqBxqJD7H/uk9V0QO10VgwY9J2BUXejsGuzChln72Yl+o8GZwsvhOekndRxccR90J8ZO+LKO24+3VzHFh4Cu/g==}
+  turbo-windows-64@2.8.12:
+    resolution: {integrity: sha512-vyFOlpFFzQFkikvSVhVkESEfzIopgs2J7J1rYvtSwSHQ4zmHxkC95Q8Kjkus8gg+8X2mZyP1GS5jirmaypGiPw==}
     cpu: [x64]
     os: [win32]
 
-  turbo-windows-arm64@2.8.6:
-    resolution: {integrity: sha512-I3VEQyxIlNZ6XTg4fLKAkuhcwzIs/GD7Vs1yhelH2aUTjf08wprjBWknDqP7mjAHMpsosRrq4DtfSZEQm83Hxg==}
+  turbo-windows-arm64@2.8.12:
+    resolution: {integrity: sha512-9nRnlw5DF0LkJClkIws1evaIF36dmmMEO84J5Uj4oQ8C0QTHwlH7DNe5Kq2Jdmu8GXESCNDNuUYG8Cx6W/vm3g==}
     cpu: [arm64]
     os: [win32]
 
-  turbo@2.8.6:
-    resolution: {integrity: sha512-QMj1SQwUYehc+xJ9SxXn56UO43hfKN64/NFetVW1BwzysRqn+q0FSgrmk+IbJ+djfd8j8zXGKGeqsnUcXwQSUQ==}
+  turbo@2.8.12:
+    resolution: {integrity: sha512-auUAMLmi0eJhxDhQrxzvuhfEbICnVt0CTiYQYY8WyRJ5nwCDZxD0JG8bCSxT4nusI2CwJzmZAay5BfF6LmK7Hw==}
     hasBin: true
 
   type-fest@0.13.1:
@@ -8500,7 +8500,7 @@ snapshots:
       '@strapi/design-system': 2.1.2(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.20.0)(@codemirror/language@6.12.1)(@codemirror/lint@6.9.4)(@codemirror/search@6.6.0)(@codemirror/state@6.5.4)(@codemirror/theme-one-dark@6.1.3)(@codemirror/view@6.39.13)(@strapi/icons@2.1.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))(@types/react-dom@18.3.7(@types/react@18.3.28))(@types/react@18.3.28)(codemirror@5.65.21)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       '@strapi/icons': 2.1.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       '@strapi/permissions': 5.36.0
-      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.9.2)
+      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.4.4)
       '@strapi/typescript-utils': 5.36.0
       '@strapi/utils': 5.36.0
       '@testing-library/dom': 10.4.1
@@ -8698,7 +8698,7 @@ snapshots:
       '@strapi/database': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)
       '@strapi/design-system': 2.1.2(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.20.0)(@codemirror/language@6.12.1)(@codemirror/lint@6.9.4)(@codemirror/search@6.6.0)(@codemirror/state@6.5.4)(@codemirror/theme-one-dark@6.1.3)(@codemirror/view@6.39.13)(@strapi/icons@2.1.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))(@types/react-dom@18.3.7(@types/react@18.3.28))(@types/react@18.3.28)(codemirror@5.65.21)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       '@strapi/icons': 2.1.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
-      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.9.2)
+      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.4.4)
       '@strapi/utils': 5.36.0
       date-fns: 2.30.0
       date-fns-tz: 2.0.1(date-fns@2.30.0)
@@ -8799,7 +8799,7 @@ snapshots:
       '@strapi/generators': 5.36.0(@types/node@20.19.33)
       '@strapi/logger': 5.36.0
       '@strapi/permissions': 5.36.0
-      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.9.2)
+      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.4.4)
       '@strapi/typescript-utils': 5.36.0
       '@strapi/utils': 5.36.0
       '@vercel/stega': 0.1.2
@@ -9234,7 +9234,7 @@ snapshots:
       '@strapi/openapi': 5.36.0
       '@strapi/permissions': 5.36.0
       '@strapi/review-workflows': 5.36.0(0b7e82abaad9bf2b2d73520633b388e7)
-      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.9.2)
+      '@strapi/types': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.4.4)
       '@strapi/typescript-utils': 5.36.0
       '@strapi/upload': 5.36.0(a1336b0512bbfb9c2e0db2d0018a90cf)
       '@strapi/utils': 5.36.0
@@ -9337,6 +9337,36 @@ snapshots:
       - webpack-cli
       - webpack-dev-server
       - webpack-plugin-serve
+
+  '@strapi/types@5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.4.4)':
+    dependencies:
+      '@casl/ability': 6.5.0
+      '@koa/cors': 5.0.0
+      '@koa/router': 12.0.2
+      '@strapi/database': 5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)
+      '@strapi/logger': 5.36.0
+      '@strapi/permissions': 5.36.0
+      '@strapi/utils': 5.36.0
+      commander: 8.3.0
+      json-logic-js: 2.0.5
+      koa: 2.16.3
+      koa-body: 6.0.1
+      node-schedule: 2.1.1
+      typedoc: 0.25.10(typescript@5.4.4)
+      typedoc-github-wiki-theme: 1.1.0(typedoc-plugin-markdown@3.17.1(typedoc@0.25.10(typescript@5.9.2)))(typedoc@0.25.10(typescript@5.9.2))
+      typedoc-plugin-markdown: 3.17.1(typedoc@0.25.10(typescript@5.9.2))
+      zod: 3.25.67
+    transitivePeerDependencies:
+      - '@types/node'
+      - better-sqlite3
+      - mysql
+      - mysql2
+      - pg
+      - pg-native
+      - sqlite3
+      - supports-color
+      - tedious
+      - typescript
 
   '@strapi/types@5.36.0(@types/node@20.19.33)(better-sqlite3@12.6.2)(pg@8.8.0)(typescript@5.9.2)':
     dependencies:
@@ -14075,32 +14105,32 @@ snapshots:
     dependencies:
       safe-buffer: 5.2.1
 
-  turbo-darwin-64@2.8.6:
+  turbo-darwin-64@2.8.12:
     optional: true
 
-  turbo-darwin-arm64@2.8.6:
+  turbo-darwin-arm64@2.8.12:
     optional: true
 
-  turbo-linux-64@2.8.6:
+  turbo-linux-64@2.8.12:
     optional: true
 
-  turbo-linux-arm64@2.8.6:
+  turbo-linux-arm64@2.8.12:
     optional: true
 
-  turbo-windows-64@2.8.6:
+  turbo-windows-64@2.8.12:
     optional: true
 
-  turbo-windows-arm64@2.8.6:
+  turbo-windows-arm64@2.8.12:
     optional: true
 
-  turbo@2.8.6:
+  turbo@2.8.12:
     optionalDependencies:
-      turbo-darwin-64: 2.8.6
-      turbo-darwin-arm64: 2.8.6
-      turbo-linux-64: 2.8.6
-      turbo-linux-arm64: 2.8.6
-      turbo-windows-64: 2.8.6
-      turbo-windows-arm64: 2.8.6
+      turbo-darwin-64: 2.8.12
+      turbo-darwin-arm64: 2.8.12
+      turbo-linux-64: 2.8.12
+      turbo-linux-arm64: 2.8.12
+      turbo-windows-64: 2.8.12
+      turbo-windows-arm64: 2.8.12
 
   type-fest@0.13.1: {}
 
@@ -14132,6 +14162,14 @@ snapshots:
     dependencies:
       handlebars: 4.7.8
       typedoc: 0.25.10(typescript@5.9.2)
+
+  typedoc@0.25.10(typescript@5.4.4):
+    dependencies:
+      lunr: 2.3.9
+      marked: 4.3.0
+      minimatch: 9.0.5
+      shiki: 0.14.7
+      typescript: 5.4.4
 
   typedoc@0.25.10(typescript@5.9.2):
     dependencies:
